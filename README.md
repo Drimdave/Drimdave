@@ -1,9 +1,10 @@
 <h1 align="center">Hi there 👋, I'm David Oyelade</h1>
 <h3 align="center">I am a proactive, innovative, and pragmatic Nigerian undergraduate currently studying Mathematics at the University of Lagos. 
   
-  I am a certified Digital Marketer and an emerging Data Scientist who specializes in creating brand awareness, drive website traffic, acquiring leads/customers, and establishing market dominance for small-scale enterprises and medium-scale outfits. 
+
+I am a certified Digital Marketer and an emerging Data Scientist who specializes in creating brand awareness, drive website traffic, acquiring leads/customers, and establishing market dominance for small-scale enterprises and medium-scale outfits. 
   
-  Finally, I collect, collate, analyze, and interpret data on customers' behavior, market trends, and product performance for business start-ups to enhance their quality decision making and profitability.</h3>
+Finally, I collect, collate, analyze, and interpret data on customers' behavior, market trends, and product performance for business start-ups to enhance their quality decision making and profitability.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drimdave&label=Profile%20views&color=0e75b6&style=flat" alt="drimdave" /> </p>
 
