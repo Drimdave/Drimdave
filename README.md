@@ -28,13 +28,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jacobian1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jacobian1234" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/david oyelade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david oyelade" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/david oyelade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="david oyelade" height="30" width="40" /></a>
-<a href="https://kaggle.com/david oyelade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="david oyelade" height="30" width="40" /></a>
-<a href="https://fb.com/david oyelade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="david oyelade" height="30" width="40" /></a>
-<a href="https://instagram.com/drimdave54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="drimdave54" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/david oyelade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="david oyelade" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/oyeladedavid1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="oyeladedavid1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/oyelade-david/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oyelade-david/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/13390846/david-oyelade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/13390846/david-oyelade" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/davidoyelade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/davidoyelade" height="30" width="40" /></a>
+<a href="https://fb.com/https://web.facebook.com/david.oyelade.71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/david.oyelade.71" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/drimdave54/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/drimdave54/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucvt4-g3wgg_bxcvdlgep2dq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucvt4-g3wgg_bxcvdlgep2dq" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/oyeladedavid1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/oyeladedavid1/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -45,4 +45,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drimdave&show_icons=true&locale=en" alt="drimdave" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drimdave&" alt="drimdave" /></p>
-
