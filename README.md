@@ -3,14 +3,33 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Causten&pause=1000&width=435&lines=Professional+Full+Stack+Developer;Experienced+Data+Scientist;Certified+Digital+Marketer;5+years+of+coding+experience;Always+learning+something+new" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Causten&pause=1000&center=true&width=435&lines=Professional+Full+Stack+Developer;Experienced+Data+Scientist;Certified+Digital+Marketer;5+years+of+coding+experience;Always+learning+something+new" alt="Typing SVG" /></a>
 </p>  
   
-I am a proactive, innovative, and pragmatic Nigerian undergraduate currently studying Mathematics at the University of Lagos. 
+I am a passionate Data Scientist, Full Stack Developer, and Certified Digital Marketer dedicated to driving business innovation through technology. With a track record of delivering high-quality results, I have successfully transformed business challenges into technological solutions for clients globally.
 
-I am a certified Digital Marketer and an emerging Data Scientist who specializes in creating brand awareness, drive website traffic, acquiring leads/customers, and establishing market dominance for small-scale enterprises and medium-scale outfits. 
-  
-Finally, I collect, collate, analyze, and interpret data on customers' behavior, market trends, and product performance for business start-ups to enhance their quality decision making and profitability.</h3>
+🔹 Data Scientist:
+
+- Proficient in Python, R, SQL, Tableau, and Microsoft PowerBI.
+- Expertise in data cleaning, analysis, modeling, and extracting insights from complex datasets.
+- Skilled in statistical techniques to decipher trends and patterns.
+
+🔹 Full Stack Developer:
+
+- Mastery in HTML, CSS, JavaScript, and React.js.
+- Delivers captivating web applications and 3D designs using Blender and Fusion360.
+- Experience in mobile app development and AR/VR via Unity and Vuforia.
+
+🔹 Certified Digital Marketer:
+
+- Specialized in SEO/SEM, social media marketing, and data analytics.
+- Assists Nigerian businesses in establishing industry dominance through tailored digital marketing 
+ strategies.
+- Proven success in brand awareness, traffic generation, and lead acquisition.
+
+With a multi-disciplinary approach, I offer pragmatic solutions to enhance business performance. Committed to fostering technological innovation, informed decision-making, and achieving market successes for corporate organizations.
+
+📧 Reach Out: oyeladedavid1@gmail.com for collaborations or assistance. Open to remote projects.</h3>
 
 ![github](https://img.shields.io/github/followers/Drimdave?style=social)
 
