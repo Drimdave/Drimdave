@@ -3,7 +3,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Causten&pause=1000&center=true&width=435&lines=Professional+Full+Stack+Developer;Experienced+Data+Scientist;Certified+Digital+Marketer;5+years+of+coding+experience;Always+learning+something+new" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Causten&pause=1000&center=true&width=435&lines=Professional+Full+Stack+Developer;Experienced+Data+Scientist;5+years+of+coding+experience;Always+learning+something+new" alt="Typing SVG" /></a>
 </p>  
   
 I am a dedicated Data Scientist, skilled Full Stack Software Engineer, with a talent for turning complex business problems into advanced tech solutions that make a worldwide difference. My broad skill set allows me to tackle challenges comprehensively and quickly, providing not only solutions but also strategic improvements for businesses.
