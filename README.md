@@ -43,10 +43,7 @@ I wield mastery in HTML, CSS, JavaScript, React.js, Node.js, TypeScript, and Nex
 
 ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drimdave&show_icons=true&theme=dark)
 
-
-<img align="center" src="https://github.com/Drimdave/Drimdave/blob/main/giphy.gif" alt="Gify GIF" width="500" height="400" /> 
-
-[website]: [https://david-oyelade.netlify.app/](https://david-world.netlify.app/)
+[website]: https://david-world.netlify.app/
 [linkedin]: https://www.linkedin.com/in/oyelade-david
 [twitter]: https://twitter.com/Jacobian1234
 [facebook]: https://m.facebook.com/david.oyelade.71
