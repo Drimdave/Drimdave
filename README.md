@@ -6,28 +6,13 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Causten&pause=1000&center=true&width=435&lines=Professional+Full+Stack+Developer;Experienced+Data+Scientist;Certified+Digital+Marketer;5+years+of+coding+experience;Always+learning+something+new" alt="Typing SVG" /></a>
 </p>  
   
-I am a passionate Data Scientist, Full Stack Developer, and Certified Digital Marketer dedicated to driving business innovation through technology. With a track record of delivering high-quality results, I have successfully transformed business challenges into technological solutions for clients globally.
+I am a dedicated Data Scientist, skilled Full Stack Software Engineer, with a talent for turning complex business problems into advanced tech solutions that make a worldwide difference. My broad skill set allows me to tackle challenges comprehensively and quickly, providing not only solutions but also strategic improvements for businesses.
 
-🔹 Data Scientist:
+🔹 As a Data Scientist:
+With rich proficiency in Python, R, SQL, Tableau, and Microsoft Power BI, I thrive on transforming raw data into compelling stories. My passion lies in harnessing statistical methods to uncover trends and inform business strategies, having refined the art of data cleaning, analysis, and modeling to extract actionable insights from complex datasets.
 
-- Proficient in Python, R, SQL, Tableau, and Microsoft PowerBI.
-- Expertise in data cleaning, analysis, modeling, and extracting insights from complex datasets.
-- Skilled in statistical techniques to decipher trends and patterns.
-
-🔹 Full Stack Developer:
-
-- Mastery in HTML, CSS, JavaScript, and React.js.
-- Delivers captivating web applications and 3D designs using Blender and Fusion360.
-- Experience in mobile app development and AR/VR via Unity and Vuforia.
-
-🔹 Certified Digital Marketer:
-
-- Specialized in SEO/SEM, social media marketing, and data analytics.
-- Assists Nigerian businesses in establishing industry dominance through tailored digital marketing 
- strategies.
-- Proven success in brand awareness, traffic generation, and lead acquisition.
-
-With a multi-disciplinary approach, I offer pragmatic solutions to enhance business performance. Committed to fostering technological innovation, informed decision-making, and achieving market successes for corporate organizations.
+🔹 As a Full Stack Software Engineer:
+I wield mastery in HTML, CSS, JavaScript, React.js, Node.js, TypeScript, and Next.js, crafting captivating web applications that resonate with users. My creative prowess extends to 3D design with Blender and Fusion 360, and I bring ideas to life through mobile app development using React Native and Flutter, as well as immersive AR/VR experiences using Unity.
 
 📧 Reach Out: oyeladedavid1@gmail.com for collaborations or assistance. Open to remote projects.</h3>
 
