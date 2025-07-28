@@ -21,6 +21,9 @@ I’m currently leading Front‑End & AI at **NextJobQuest** (remote, UK) and op
 | [JzeemConsulting.com](https://www.jzeemconsulting.com/) | CSR→SSG migration; TTFB –70 %, SEO traffic +35 % | Gatsby 5, GraphQL, Netlify CMS |
 | [OpenProp.africa](https://openprop.africa/) | Contributed to product microsite; 94/100 Lighthouse; GMV driver | Shopify, Next.js |
 
+
+> *Source code for above projects is proprietary. Contact me for a guided code walkthrough under NDA.*
+
 ---
 ## 🛠️ Tech I Use Daily
 `React` • `Next.js` • `TypeScript` • `Tailwind CSS` • `Node` • `GraphQL` • `OpenAI / Gemini` • `AWS & Vercel`
