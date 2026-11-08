@@ -1,41 +1,44 @@
 <h1 align="center">David Oyelade</h1>
-<p align="center"><b>Lead Software Architect · Next.js Ecosystem · AI Orchestration · Complex State Management</b></p>
+<p align="center"><b>Full-stack AI engineer · TypeScript, React, Node.js, Python</b></p>
 
-I engineer scalable, deterministic AI workflows and high-performance SaaS platforms. Over the past 5 years, my focus has evolved from standard full-stack development to architecting real-time execution engines, RAG pipelines, and enterprise-grade web infrastructure. 
+I build products around LLMs, voice and workflow automation, and I test them. Over five years of professional work, most recently as the only engineer at a startup.
 
-**Recent Engineering Focus:**
-* **Real-Time Execution Pipelines:** Architecting node-based automation engines using React Flow and a dependency-ordered execution engine with branching, webhook and scheduled triggers.
-* **Deterministic AI Workflows:** Building robust LLM architectures (Groq, Gemini, OpenAI) that output structured, strictly typed data for mission-critical applications.
-* **End-to-End SaaS Architecture:** Spearheading product engineering from secure authentication (Better Auth/NextAuth) and database architecture (Neon/Supabase) to Stripe monetization and Chrome Extension integration.
-
-I am currently leading architecture at **NextJobQuest / Nucrox** and actively exploring opportunities in the European market for AI Solutions Architecture or Lead Engineering roles.
+Based in Lagos, Nigeria. Open to relocating with visa sponsorship (UK, Europe and elsewhere).
 
 ---
-## Architecture & Production Deployments
 
-| System / Application | Technical Role & Core Focus | Primary Infrastructure |
-|----------------------|-----------------------------|------------------------|
-| **DevFlow** | **Lead Architect:** Engineered a visual, real-time automation builder. Built a real execution engine (HTTP, SQL, email, branching), webhook and cron triggers, an encrypted credentials vault, and an AI-to-graph generator, with 92 automated tests. | Next.js 16, React 19, React Flow, Groq API, Neon Postgres |
-| **NextJobQuest (Nucrox)** | **Founding Product Engineer:** Scaled a comprehensive AI career suite. Built cross-origin Chrome extensions, RAG-based document parsing pipelines, and complex microservice integrations. | Next.js 14, TypeScript, Supabase, Prisma, Google GenAI, Stripe |
-| **Vaultify (Fintech UI)** | **Frontend Lead:** Designed a high-conversion, responsive financial dashboard demonstrating advanced Next.js routing and modular Tailwind component architecture. | React, Next.js, Tailwind CSS |
-| **OpenProp.africa** | **Frontend Engineer:** Shipped highly optimized e-commerce microsites achieving 94/100 Lighthouse scores and driving significant GMV. | Shopify Liquid, Next.js |
+## What I have built recently
 
-> *Note: Core logic for several platforms above is maintained in private repositories to protect proprietary IP. I am available for guided architectural walkthroughs under NDA.*
-
----
-## Core Technologies & Infrastructure
-
-**Languages & Frameworks:** `TypeScript` • `JavaScript (ES6+)` • `React (18/19)` • `Next.js (App Router)` • `Node.js`
-
-**AI & Data Infrastructure:** `Groq SDK` • `OpenAI / Gemini API` • `PostgreSQL` • `Neon` • `Supabase` • `Prisma`
-
-**Architecture & State:** `React Flow` • `GraphQL` • `Tailwind CSS` • `Framer Motion`
+| Project | What it is | Evidence |
+|---|---|---|
+| **[Assertly](https://github.com/Drimdave/assertly)** ([live](https://assertly.vercel.app)) | A free QA practice platform. Testers write requirements, plans and test cases, run exploratory sessions, report bugs and are scored against hidden defects in four practice systems (a bank, a shop, a loan form and a clinic booking system). | Next.js 16, React 19, Better Auth, Neon. CI on every push runs lint, typecheck, unit tests, a build, and end-to-end and accessibility tests (Playwright). In its launch phase. |
+| **[DevFlow](https://github.com/Drimdave/devflow)** ([live](https://devflow-delta-ruby.vercel.app)) | You describe a workflow in plain English, an LLM returns a graph, and the engine runs it. Webhook and cron triggers, saved run history, an encrypted credentials vault, an SSRF-protected HTTP client. | Next.js 16, React Flow, Neon Postgres, Groq. 100 automated tests and a QA pass of about 150 probes against a real database. |
+| **[LendLoop](https://github.com/Drimdave/lendloop)** | A tool-lending board whose emails and overdue reminders run in n8n. Calls are signed with HMAC in both directions, retried, and written back idempotently. | Next.js 15, Clerk, Convex, n8n. 38 automated tests, CI, and a README section on what was and was not tested. |
+| **PC Anatomy review** (open source) | I cloned an open-source 3D site, confirmed its type check, lint, 64 tests and build, traced three.js into the main bundle and tested a fix. The maintainer applied it (PR #29), cutting the entry chunk from 340 KB to 192 KB gzipped. | [The review](https://github.com/Yoosseph/pc-anatomy/discussions/28) |
+| **Nucrox** (founding engineer, Oct 2024 to Mar 2026) | The only engineer. A credit ledger with Stripe webhooks that checks every AI request against the balance, a RAG pipeline with PDF ingestion, a voice interview simulator, and a Chrome extension agent published on the Chrome Web Store. | The code is private. Architecture notes: [nucrox-architecture](https://github.com/Drimdave/nucrox-architecture). |
 
 ---
-## Deployment Metrics
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Drimdave&theme=transparent&hide_border=true)](https://github.com/Drimdave)
+## Work
+
+- **Independent contract developer**, Jan 2024 to now: web apps and QA automation contract work (Playwright, Cypress).
+- **Nucrox**, founding engineer, Oct 2024 to Mar 2026.
+- **RazorLabs**, frontend developer, Apr 2021 to Dec 2023.
+- **Burritt Research**, web developer, Feb 2020 to Mar 2021.
+- **Education:** University of Lagos, Bachelor of Science Education (Mathematics Education), 2017 to 2023.
 
 ---
-## Contact & Presence
-[LinkedIn](https://www.linkedin.com/in/oyelade-david) · [Architecture Portfolio](https://davidoyelade.netlify.app) · [Email](mailto:oyeladedavid1@gmail.com)
+
+## Stack
+
+**Languages and frameworks:** TypeScript, JavaScript, Python (Flask, FastAPI), React 18/19, Next.js, Node.js
+
+**Data and backend:** PostgreSQL, Neon, Supabase, Convex, Stripe webhooks, n8n
+
+**AI:** Claude Code, Cursor, Codex, Groq, Gemini, RAG, checking model output before use
+
+**Testing and delivery:** Playwright, Cypress, Vitest, Jest, GitHub Actions, Jira
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/oyelade-david) · [Portfolio](https://davidoyelade.netlify.app) · [Email](mailto:oyeladedavid1@gmail.com)
